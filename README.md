@@ -4,3 +4,4 @@ pattern = "*+*+"  # 定義要重複的組合
 for _ in range(10):
     print(pattern * 5)  # 在每一行中重複五次 "*+*+" 組合
     print()  # 每行中間插入一行空白
+    
